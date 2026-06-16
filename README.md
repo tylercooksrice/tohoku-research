@@ -1,1 +1,1 @@
-https://github.com/tylercooksrice/tohoku-research
+Visit [repo](https://github.com/tylercooksrice/tohoku-research "research repo")
